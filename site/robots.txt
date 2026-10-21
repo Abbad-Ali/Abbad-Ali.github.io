@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abbad-ali.github.io/sitemap-index.xml
